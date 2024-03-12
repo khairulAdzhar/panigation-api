@@ -1,0 +1,4 @@
+GET http://localhost:5522/users
+
+###
+GET http://localhost:5522/users?search_query=&page=0&limit=20
